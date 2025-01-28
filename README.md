@@ -18,7 +18,6 @@ Bienvenue dans **C_Games**, un ensemble de jeux développés en C. Chaque jeu es
 ## Jeux Inclus  
 
 ### 1. Devine le nombre  
-![Devine le nombre](url_de_capture_ecran)  
 Un jeu où le joueur doit deviner un nombre aléatoire entre 1 et 100.  
 
 - **Règles du Jeu :**  
@@ -31,7 +30,6 @@ Un jeu où le joueur doit deviner un nombre aléatoire entre 1 et 100.
   - Suivi du nombre total d'essais.  
 
 ### 2. Pendu (Hangman)  
-![Pendu](url_de_capture_ecran)  
 Devinez les lettres d'un mot avant de perdre tous vos essais.  
 
 - **Règles du Jeu :**  
@@ -44,7 +42,6 @@ Devinez les lettres d'un mot avant de perdre tous vos essais.
   - Gestion de lettres déjà devinées.  
 
 ### 3. Pierre-Papier-Ciseaux  
-![Pierre-Papier-Ciseaux](url_de_capture_ecran)  
 Affrontez l'ordinateur dans un classique jeu de pierre, papier, ciseaux.  
 
 - **Règles du Jeu :**  
@@ -58,7 +55,6 @@ Affrontez l'ordinateur dans un classique jeu de pierre, papier, ciseaux.
   - Possibilité de rejouer.  
 
 ### 4. Tic-Tac-Toe (Morpion)  
-![Tic-Tac-Toe](url_de_capture_ecran)  
 Jouez à ce jeu de stratégie pour deux joueurs.  
 
 - **Règles du Jeu :**  
@@ -70,8 +66,7 @@ Jouez à ce jeu de stratégie pour deux joueurs.
   - Interface utilisateur simple pour entrer des coups.  
   - Détection automatique des gagnants.  
 
-### 5. Quiz Simple  
-![Quiz Simple](url_de_capture_ecran)  
+### 5. Quiz Simple    
 Répondez à des questions pour tester vos connaissances.  
 
 - **Règles du Jeu :**  
