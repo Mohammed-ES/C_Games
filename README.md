@@ -84,8 +84,3 @@ Répondez à des questions pour tester vos connaissances.
   - Suivi du score total du joueur.  
   - Feedback sur les réponses correctes et incorrectes.  
 
-## Instructions d'Installation  
-
-1. **Clonez le repository :**  
-   ```bash  
-   git clone https://github.com/votre_nom_d'utilisateur/C_Games.git
